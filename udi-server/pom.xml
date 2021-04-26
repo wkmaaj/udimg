@@ -17,7 +17,7 @@
 	<description>Upload Download Images web application tutorial.</description>
 
 	<properties>
-		<commons.io.version>2.6</commons.io.version>
+		<commons.io.version>2.7</commons.io.version>
 		<java.version>1.8</java.version>
 	</properties>
 
